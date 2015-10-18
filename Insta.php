@@ -2,13 +2,13 @@
 
 class Insta
 {
-	const CLIENT_ID = '980d4a1b64974f9ea5e47144503cba76';
+	const CLIENT_ID = 'YOUR_CLIENT_ID_HERE';
 
-	const REDIRECT_URI = 'http://127.0.0.1/insta'; 
+	const REDIRECT_URI = 'REDIRECT_URI_HERE'; 
 
-	const API_URL =  'https://api.instagram.com';
+	const API_URL =  'APP_URI HERE';
 
-	const CLIENT_SECRET = '8f88966137124444906efdbce78c6c3b';
+	const CLIENT_SECRET = 'CLIENT_SECRET ID HERE';
 
 	private $code;
 
